@@ -9,11 +9,11 @@ slug: "/css-intro-exercise"
 
 Practice using CSS rulesets to add styles to web pages.
 
-## Exercise 1
+## Exercise 1 -done
 
 Steps are to be completed in your root directory (`CSS_Exercise/`) and `index.html` file.
 
-1. Create a **new css file**, named `index.css`, in your project's _root directory_
+1. Create a **new css file**, named `index.css`, in your project's _root directory_ 
 2. Create a **link** element nested in the `<head></head>` of your `index.html` file, that contains an **href** attribute with a value that links to your newly created external stylesheet (don't forget to add a **rel** attribute to describe the linked content as a stylesheet\*)
 
 ## Exercise 2
